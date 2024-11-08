@@ -1,4 +1,4 @@
-"# Toshkent shahrida uylarning narxini aniqlash
+## Toshkent shahrida uylarning narxini aniqlash
 
 Ushbu loyiha Toshkent shahridagi uylarning narxini tahlil qilish va bashorat qilishga qaratilgan. Loyihada uy joyining manzili, tumani, xonalari soni, o‘lchami, qavat darajasi, binoning maksimal qavatlari, va narxi kabi ma’lumotlar asosida analiz o‘tkazilgan.
 
